@@ -1,0 +1,9 @@
+table {
+  width: 450px;
+  /* border-top: 7px solid rgb(43, 129, 17); */
+  border-collapse: collapse;
+  text-align: center;
+  color: black;
+  margin-bottom: 20px;
+  /* border: 1px solid #dddddd; */
+}

@@ -8,7 +8,7 @@ import {
 import CategoryList from "./components/CategoryList";
 import CategoryDetail from "./components/CategoryDetail";
 import RecipeDetail from "./components/RecipeDetail";
-// import "./App.css";
+import "./App.css";
 
 function App() {
   return (
